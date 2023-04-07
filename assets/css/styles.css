@@ -977,7 +977,7 @@ body.dark-theme {
     padding-right: 5rem;
   }
   .home__description {
-    width: 24px;
+    width: 30rem;
     top: -2rem;
   }
   .home__box {
@@ -1005,7 +1005,7 @@ body.dark-theme {
     column-gap: 3rem;
   }
   .list__description {
-    width: 64px;
+    width: 25rem;
     top: -2.5rem;
     left: -1rem;
   }
@@ -1061,10 +1061,10 @@ body.dark-theme {
     grid-template-columns: max-content 400px max-content;
     column-gap: 2.5rem;
   }
-  .follow__content-1,
+  /* .follow__content-1,
   .follow__content-2 {
     border: 10px solid var(--first-color-light);
-  }
+  } */
   .follow__img-1,
   .follow__img-2 {
     width: 280px;
